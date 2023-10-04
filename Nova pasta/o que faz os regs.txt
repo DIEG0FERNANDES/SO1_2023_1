@@ -1,0 +1,21 @@
+HungAppTimeout – Reduz sistema de tempo de espera antes de matar os processos de usuário quando o usuário clica no botão “Finalizar tarefa” no Gerenciador de tarefas.
+
+MenuShowDelay – Diminui menus show de tempo de atraso, ele vai fazer os menus mostram mais rápido, ao clicar.
+
+LowLevelHooksTimeout – Reduz sistema de tempo de espera antes de matar serviços não respondem.
+
+MouseHoverTime – Reduz o tempo de atraso de pop-up para mostrar descrição pop-up mais rápido quando você mover o cursor do mouse sobre um item.
+
+LinkResolveIgnoreLinkInfo – impede o Windows de perder tempo na procura de um programa que não existe mais no seu sistema quando você tenta abrir o seu atalho.
+
+NoResolveSearch – impede que o Windows procura para a unidade de disco para resolver um atalho.
+
+NoResolveTrack – impede que o Windows usando o recurso de rastreamento do sistema de arquivos NTFS para resolver um atalho.
+
+NoInternetOpenWith – desativa “Busca na Internet” prompt em “Abrir com” janela para que você pode ver diretamente lista de programas disponíveis.
+
+WaitToKillServiceTimeout – Reduz sistema de tempo de espera antes de parar os serviços quando os serviços são notificados sobre encerrar processo.
+
+NoLowDiskSpaceChecks – desativa a verificação de pouco espaço em disco para que você não obter a notificação espaço em disco baixa irritante na bandeja do sistema.
+
+AutoEndTasks – Força o Windows terminar automaticamente os serviços do usuário quando o usuário faz logoff ou desliga o computador. Ele vai evitar que a tela “shutdown fechar aplicativos e desligar, este aplicativo é a prevenção” de aparecer.
